@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+  --color-charcoal: #1B1F1D;
+  --color-paper: #F7F5F1;
+  --color-amber: #E8A33D;
+  --color-teal: #4FA697;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: Inter, sans-serif;
+}
